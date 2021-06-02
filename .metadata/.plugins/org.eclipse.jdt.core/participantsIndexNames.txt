@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+D:\prueba\Conexion\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3409955312.index
+\jsp-servlet-jdbc-mysql-example\src\main\java
+D:\prueba\Conexion\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1081469260.index
+\jsp-servlet-jdbc-mysql-example\src\main\java
